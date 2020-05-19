@@ -11,7 +11,6 @@
 /*!
  * jQuery JavaScript Library v3.5.1
  * https://jquery.com/
- *
  * Includes Sizzle.js
  * https://sizzlejs.com/
  *
