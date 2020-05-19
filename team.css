@@ -1,0 +1,4 @@
+.person__photo{width:100%;overflow:hidden;display:flex;background-image:var(--profile);background-size:cover;background-position:center top}.person__photo:after{content:"";display:block;padding-bottom:100%}.person__name{margin-top:10px;font-family:"BravoSC"}
+
+body{background:#01142F;color:#fffffe}.team{margin-top:80px;margin-bottom:80px}.team .row{margin-bottom:10px}
+

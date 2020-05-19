@@ -1,0 +1,2 @@
+body{min-height:100vh;display:flex;background:#01142F;flex-direction:column}.readnews{flex:1 1;margin-top:100px;margin-bottom:40px;background:#01142F}.readnews h1,.readnews h2{font-weight:bold}.readnews h1,.readnews h2,.readnews p{color:#fafafa}.readnews hr{border-top:1px solid rgba(255,255,255,0.1)}.readnews img{width:100%}
+
