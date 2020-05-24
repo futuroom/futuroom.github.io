@@ -124,7 +124,7 @@
 /* Slider */
 .slick-loading .slick-list
 {
-    background: #fff url(/images/ajax-loader.gif) center center no-repeat;
+    background: #fff url(/images/1783a0f1af5b2933c4e89682995397c1.gif) center center no-repeat;
 }
 
 /* Icons */
@@ -566,7 +566,7 @@ Copyright (c) 2014 Daniel Eden
 .pswp__button,
 .pswp__button--arrow--left:before,
 .pswp__button--arrow--right:before {
-  background: url(/images/default-skin.png) 0 0 no-repeat;
+  background: url(/images/2f36a6ebd87fada3a0695e5f11761345.png) 0 0 no-repeat;
   background-size: 264px 88px;
   width: 44px;
   height: 44px; }
@@ -830,7 +830,7 @@ a.pswp__share--download:hover {
   opacity: 1; }
   .pswp__preloader--active .pswp__preloader__icn {
     /* We use .gif in browsers that don't support CSS animation */
-    background: url(/images/preloader.gif) 0 0 no-repeat; }
+    background: url(/images/38460a5d3a495cf23152b647ee86dff3.gif) 0 0 no-repeat; }
 
 .pswp--css_animation .pswp__preloader--active {
   opacity: 1; }
@@ -996,5 +996,5 @@ a.pswp__share--download:hover {
 .pswp--minimal--dark .pswp__top-bar {
   background: none; }
 
-body{background:#160f3d}p,h1{color:#fff}.slick{margin:0 0 40px}.my-gallery img{height:200px}.my-gallery figure{transform:none;transition:transform 0.3s ease-in-out}.my-gallery figure:hover{transform:scale(1.05)}.my-gallery figcaption{color:white}.heading.heading-shadow{font-size:8vw;margin:40px 0;color:#fff;text-shadow:0.7vw 0.7vw 0 var(--heading-shadow)}@media (max-width: 991.98px){.slick-prev,.slick-next{display:none !important;left:50%}.embed-container{display:block;width:100%}}
+body{background:#160f3d}p,h1{color:#fff}.slick{margin:0 0 40px}.my-gallery a{width:100%}.my-gallery .row div{height:200px;width:100%;background:var(--poster-bg);background-size:cover;background-position:center 40%}.my-gallery figure{transform:none;transition:transform 0.3s ease-in-out;overflow:hidden}.my-gallery figure:hover{transform:scale(1.05);z-index:1}.my-gallery figcaption{color:white}@media (max-width: 991.98px){.slick-prev,.slick-next{display:none !important;left:50%}.embed-container{display:block;width:100%}}
 
