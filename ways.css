@@ -996,5 +996,5 @@ a.pswp__share--download:hover {
 .pswp--minimal--dark .pswp__top-bar {
   background: none; }
 
-body{background:#160f3d}p,h1{color:#fff}.slick{margin:0 0 40px}.my-gallery a{width:100%}.my-gallery .row div{height:200px;width:100%;background:var(--poster-bg);background-size:cover;background-position:center 40%}.my-gallery figure{transform:none;transition:transform 0.3s ease-in-out;overflow:hidden}.my-gallery figure:hover{transform:scale(1.05);z-index:1}.my-gallery figcaption{color:white}@media (max-width: 991.98px){.slick-prev,.slick-next{display:none !important;left:50%}.embed-container{display:block;width:100%}}
+body{background:#160f3d}p,h1{color:#fff}.slick{margin:0 0 40px}.slick .slick-dots li button:before{color:#fff;opacity:0.75}.slick .slick-dots li.slick-active button:before{color:#fff;opacity:1}.my-gallery a{width:100%}.my-gallery .row div{height:200px;width:100%;background:var(--poster-bg);background-size:cover;background-position:center 40%}.my-gallery figure{transform:none;transition:transform 0.3s ease-in-out;overflow:hidden}.my-gallery figure:hover{transform:scale(1.05);z-index:1}.my-gallery figcaption{color:white}@media (max-width: 991.98px){.embed-container{display:block;width:100%}}
 
